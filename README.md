@@ -65,3 +65,4 @@ Packed with **Aimbot, ESP, Wallhack, No Recoil, Bunnyhop** and more — complete
 | **How to update?**   | Updates automatically with new CSS builds. |
 | **Stream-proof?**    | Yes, safe for OBS & Discord capture.       |
 | **Support?**         | Included via loader community.             |
+ 
